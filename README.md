@@ -88,7 +88,7 @@ Discord automation bot with AI-powered roasts and entertainment features.
 
 - 🌐 **Portfolio**: [satset.dev](https://satset.dev)
 - 💼 **LinkedIn**: [linkedin.com/in/satriyo-laksono](https://linkedin.com/in/satriyo-laksono)
-- 📧 **Email**: hello@satset.dev
+- 📧 **Email**: laksonosatriyo@gmail.com
 - 🐦 **Twitter**: [@satset19](https://twitter.com/satset19)
 
 ## 💬 Fun Facts
@@ -107,10 +107,6 @@ I'm always open to discussing:
 - 🌟 Open-source contributions
 
 ---
-
-<div align="center">
-  <i>"The best way to predict the future is to invent it." - Alan Kay</i>
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=satset19&style=for-the-badge&color=0891b2" alt="Profile Views"/>
