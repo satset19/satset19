@@ -1,152 +1,184 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=0891b2&center=true&vCenter=true&width=800&lines=Halo+brook;I'm+Satriyo+Laksono" alt="Typing SVG" />
-</h1>
+# Satriyo Laksono
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B82F6&lines=Full-Stack+Developer+%7C+AI+%26+Automation+Specialist)](https://git.io/typing-svg)
 
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/satset19?style=social)](https://github.com/satset19)
+[![Twitter Follow](https://img.shields.io/twitter/follow/satset19?style=social)](https://twitter.com/satset19)
 
-<p align="center">
-  <strong>🚀 Full-Stack Developer | AI & Automation Enthusiast</strong>
-</p>
+## Table of Contents
 
-<p align="center">
-  Welcome to my GitHub! I'm passionate about building intelligent solutions that bridge the gap between human interaction and cutting-edge technology. With a focus on TypeScript, Node.js, and AI/ML applications, I love creating tools that make life easier and more productive.
-</p>
+- [Satriyo Laksono](#satriyo-laksono)
+  - [Table of Contents](#table-of-contents)
+  - [About Me](#about-me)
+    - [Core Competencies](#core-competencies)
+  - [Technical Expertise](#technical-expertise)
+    - [Frontend Development](#frontend-development)
+    - [Backend Development](#backend-development)
+    - [AI \& Machine Learning](#ai--machine-learning)
+    - [DevOps \& Cloud Infrastructure](#devops--cloud-infrastructure)
+  - [Featured Projects](#featured-projects)
+    - [Olla Chatbot](#olla-chatbot)
+    - [Dashboard Scraping](#dashboard-scraping)
+    - [Discord Roast](#discord-roast)
+    - [Additional Projects](#additional-projects)
+  - [Professional Network](#professional-network)
+    - [Contact \& Connect](#contact--connect)
+    - [GitHub Statistics](#github-statistics)
+  - [Current Focus](#current-focus)
+    - [What I'm Working On](#what-im-working-on)
+    - [Technical Interests](#technical-interests)
+  - [Collaboration](#collaboration)
+    - [Open To Opportunities](#open-to-opportunities)
 
-## 🔧 Tech Stack & Expertise
+## About Me
 
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,materialui,tailwind,webpack,vite&theme=dark" alt="Frontend Skills"/>
-</p>
+I am a Full-Stack Developer specializing in AI and automation solutions. My work focuses on creating intelligent applications that bridge human interaction with cutting-edge technology. With expertise in TypeScript, Node.js, and AI/ML applications, I develop tools that enhance productivity and streamline complex workflows.
 
-### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,nestjs,express,mongodb,postgresql,redis,graphql&theme=dark" alt="Backend Skills"/>
-</p>
+### Core Competencies
 
-### 🤖 AI & Machine Learning
-- **LLM Integration**: OpenAI, custom vector embeddings
-- **NLP**: Text processing, similarity algorithms
-- **Automation**: Playwright, Puppeteer
+- **Full-Stack Development**: End-to-end application development with modern technologies
+- **AI/ML Integration**: Building intelligent systems with LLM capabilities and automation
+- **Scalable Architecture**: Designing robust, maintainable, and scalable solutions
+- **Technical Innovation**: Continuously exploring and implementing emerging technologies
 
-### 🛠️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,yarn,jest,cypress,aws,vercel,docker&theme=dark" alt="DevOps Skills"/>
-</p>
+## Technical Expertise
 
-## 🌟 Featured Projects
+### Frontend Development
+**Languages & Frameworks:**
+- TypeScript, JavaScript, HTML5, CSS3
+- React.js, Material-UI, Tailwind CSS
+- Build Tools: Webpack, Vite
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/satset19/olla-chatbot">Olla Chatbot</a></h3>
-      <p><strong>Intelligent LLM-powered chatbot</strong> with advanced vectorization for semantic understanding and contextual responses.</p>
-      <p><strong>⭐ Tech Stack:</strong> Node.js, TypeScript, OpenAI, Vector Embeddings</p>
-      <p><strong>🚀 Features:</strong> Semantic similarity, Context-aware conversations, Advanced text processing</p>
-    </td>
-    <td width="50%">
-      <h3>📊 <a href="https://github.com/satset19/dashboard-scraping">Dashboard Scraping</a></h3>
-      <p><strong>Multi-user web scraping platform</strong> with real-time data extraction and visualization.</p>
-      <p><strong>⭐ Tech Stack:</strong> NestJS, TypeScript, Playwright, Redis</p>
-      <p><strong>🚀 Features:</strong> Real-time dashboard, Advanced scraping, Multi-user support</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎭 <a href="https://github.com/satset19/discord-roast">Discord Roast</a></h3>
-      <p><strong>Discord automation bot</strong> with AI-powered roasts and entertainment features.</p>
-      <p><strong>⭐ Tech Stack:</strong> Discord.js, Node.js, AI/ML APIs</p>
-      <p><strong>🚀 Features:</strong> AI content generation, User engagement, Interactive commands</p>
-    </td>
-    <td width="50%">
-      <h3>🚀 <a href="#">More Projects</a></h3>
-      <p><strong>Explore more repositories</strong> in my GitHub profile for additional projects and experiments.</p>
-      <p><strong>⭐ Areas:</strong> AI/ML, Automation, Web Development, DevOps</p>
-      <p><strong>🚀 Status:</strong> Always building, always learning</p>
-    </td>
-  </tr>
-</table>
+### Backend Development
+**Languages & Frameworks:**
+- TypeScript, Node.js, Python
+- Frameworks: NestJS, Express.js
+- Databases: MongoDB, PostgreSQL, Redis
+- APIs: GraphQL, RESTful APIs
 
-## 📊 Connect With Me
+### AI & Machine Learning
+- **LLM Integration**: OpenAI API, custom vector embeddings, semantic search
+- **Natural Language Processing**: Text analysis, similarity algorithms, content generation
+- **Automation**: Playwright, Puppeteer, workflow automation
 
-<p align="center">
-  <a href="https://github.com/satset19" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/satriyo-laksono" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/satset19" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:laksonosatriyo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://satset.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+### DevOps & Cloud Infrastructure
+**Tools & Platforms:**
+- Version Control: Git, GitHub
+- Package Managers: npm, yarn, pnpm
+- Testing: Jest, Cypress
+- Cloud Services: AWS, Vercel
+- Containerization: Docker
 
-## 📈 GitHub Analytics
+## Featured Projects
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satset19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satset19&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=C9D1D9" alt="Top Languages"/>
-</div>
+### [Olla Chatbot](https://github.com/satset19/olla-chatbot)
+![GitHub stars](https://img.shields.io/github/stars/satset19/olla-chatbot?style=social) ![GitHub forks](https://img.shields.io/github/forks/satset19/olla-chatbot?style=social)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satset19&theme=tokyonight&hide_border=true&background=0D1117&stroke=0891b2&ring=0891b2&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
+**Intelligent LLM-Powered Conversational AI**
 
-## 🏆 Achievements & Badges
+An advanced chatbot system featuring sophisticated vectorization techniques for semantic understanding and contextual responses.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satset19&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+- **Technology Stack**:
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  - ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+- **Key Features**: Semantic similarity algorithms, context-aware conversations, advanced text processing
+- **Architecture**: Scalable microservices design with real-time processing capabilities
 
-### 🎯 Key Achievements
-- 🦈 **Pull Shark** - Active contributor through meaningful pull requests
-- 💻 **Full-Stack Developer** - Building end-to-end solutions
-- 🤖 **AI Integration Expert** - Specializing in LLM and automation
-- 🌐 **Remote Developer** - Successfully working from home
+### [Dashboard Scraping](https://github.com/satset19/dashboard-scraping)
+![GitHub stars](https://img.shields.io/github/stars/satset19/dashboard-scraping?style=social) ![GitHub forks](https://img.shields.io/github/forks/satset19/dashboard-scraping?style=social)
 
-## 🌱 Current Focus & Goals
+**Multi-User Web Data Extraction Platform**
 
-<p align="center">
-  <a href="https://github.com/satset19/github-readme-activity-graph">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=satset19&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0891b2&line=0891b2&point=FFB86C" />
-  </a>
-</p>
+A comprehensive platform for real-time data extraction and visualization with multi-user support.
 
-### 🔍 What I'm Exploring
-- Advanced AI/ML applications and integration
-- Building automation tools for productivity
-- Creating scalable web applications
-- Contributing to open-source projects
+- **Technology Stack**:
+  - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  - ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+  - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+- **Key Features**: Real-time dashboard updates, advanced scraping algorithms, multi-user architecture
+- **Performance**: Optimized for high-volume data processing with efficient caching
 
-## 💡 Let's Collaborate!
+### [Discord Roast](https://github.com/satset19/discord-roast)
+![GitHub stars](https://img.shields.io/github/stars/satset19/discord-roast?style=social) ![GitHub forks](https://img.shields.io/github/forks/satset19/discord-roast?style=social)
 
-I'm always open to discussing:
-- 🤖 **AI/ML Projects** - Cutting-edge implementations and research
-- 🛠️ **Automation Challenges** - Complex workflow solutions
-- 💡 **Startup Opportunities** - Innovative tech ventures
-- 🌟 **Open Source** - Meaningful contributions
+**Discord Automation & Entertainment Bot**
 
-## 📈 GitHub Activity Summary
+An intelligent Discord bot combining automation capabilities with AI-powered entertainment features.
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/satset19?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=repo&config.timezone=Asia%2FJakarta" alt="GitHub Metrics"/>
-</p>
+- **Technology Stack**:
+  - ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  - ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- **Key Features**: AI content generation, user engagement systems, interactive command processing
+- **Integration**: Seamless Discord API integration with custom AI implementations
+
+### Additional Projects
+Explore my GitHub repositories for more projects spanning:
+- **AI/Machine Learning**: Experimental implementations and production applications
+- **Automation Tools**: Custom solutions for workflow optimization
+- **Web Applications**: Full-stack projects with modern architectures
+- **DevOps Solutions**: Infrastructure and deployment automation
+
+## Professional Network
+
+### Contact & Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satset19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satriyo-laksono)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satset19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://satset.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laksonosatriyo@gmail.com)
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satset19&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satset19&theme=dark&hide=html,css)
+
+---
+
+## Current Focus
+
+### What I'm Working On
+- ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square) **Advanced AI/ML Applications**: Production-ready implementations
+- ![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat-square) **Intelligent Automation**: Workflow optimization solutions
+- ![Cloud](https://img.shields.io/badge/Cloud-2196F3?style=flat-square) **Scalable Architecture**: Enterprise-level systems
+- ![Open Source](https://img.shields.io/badge/Open_Source-6600CC?style=flat-square) **Open Source**: Meaningful contributions
+
+### Technical Interests
+- Large Language Model integration and fine-tuning
+- Real-time data processing and visualization
+- Microservices architecture design
+- Cloud-native application development
+
+---
+
+## Collaboration
+
+### Open To Opportunities
+
+**AI/ML Initiatives**
+- Production-ready machine learning implementations
+- NLP and computer vision projects
+- Intelligent automation systems
+- AI-powered user experiences
+
+**Technical Challenges**
+- Scalable system architecture
+- Performance optimization
+- Real-time application development
+- DevOps and infrastructure automation
+
+**Open Source**
+- Meaningful contributions to existing projects
+- Development of new tools and libraries
+- Community-driven initiatives
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=satset19&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/satset19?style=for-the-badge&color=0891b2&label=Followers" alt="GitHub Followers"/>
-</div>
-
-<div align="center">
-  <sub>🚀 Built with passion, coffee, and curiosity | ⚡ Always learning, always building</sub>
+  <h3>Let's Build Something Innovative Together</h3>
+  <p>Available for consulting, collaboration, and employment opportunities</p>
+  <br>
+  <p>Made with ❤️ by Satriyo Laksono</p>
 </div>
