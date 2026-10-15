@@ -15,15 +15,10 @@ Backend-leaning full-stack developer building event-driven, multi-tenant messagi
 
 ## What I've Been Working On
 
-Professional work on a multi-tenant chat & CRM platform built around WhatsApp messaging:
-
-- **NATS → Kafka migration** across ~6 Go and TypeScript services: per-tenant topics, SASL auth, dead-letter queues, bounded retries, and request-reply between services.
-- **WhatsApp session agent** (TypeScript, Fastify, Baileys): per-tenant sessions, outbound send throttling, identity resolution (LID ↔ phone), chat-history sync with progress reporting, media upload to object storage.
-- **Event ingestion pipeline** (Go): persists messaging events to PostgreSQL with idempotent upserts, Postgres CDC into per-tenant streams, and realtime fan-out over WebSocket.
-- **Realtime & REST APIs** (Go, Fiber): WebSocket push service with Kafka consumer groups and lag metrics; CRUD and reporting APIs over PostgreSQL and a Trino/DuckDB data lake.
-- **Deployment platform rework:** Kubernetes/Helm → Podman → Docker Swarm, a control-plane API that provisions per-tenant containers, shared GitLab CI templates (kaniko, semantic-release, commitlint), secrets from OpenBao, and a pinned in-house CI tool image.
-- **Frontend** (React, Vite, TanStack, shadcn/ui): chat & CRM dashboard features — history-sync UI, contact cards, media upload, accessibility fixes.
-- **Observability & docs:** structured logging with tenant context, Prometheus/Grafana dashboards, and design docs + changelogs per feature.
+- Event-driven backend services in Go and TypeScript, including a migration from NATS to Kafka.
+- Realtime and REST APIs with PostgreSQL, MongoDB, and Redis.
+- Deployment and CI/CD with Docker Swarm, GitLab CI, and centralized secrets management.
+- Dashboard features in React, plus observability with Prometheus and Grafana.
 
 ## Public Projects
 
